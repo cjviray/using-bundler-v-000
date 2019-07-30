@@ -1,4 +1,4 @@
-require :default, :development
+require
 
 Hashie
 Sinatra
