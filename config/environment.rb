@@ -1,1 +1,1 @@
-:default, :development
+Bundler require:default, :development
